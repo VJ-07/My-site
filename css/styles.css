@@ -1,0 +1,129 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+h1
+{
+  margin: 50px;
+  font-size: 5.625rem;
+  font-family: 'Permanent Marker', cursive;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.top{
+  margin: 0;
+  background-color: #E4F9F5;
+  padding: 200px;
+}
+.middle{
+  background-color: #E4F9F5;
+}
+.bottom{
+  background-color: #66BFBF;
+  margin: 0;
+  padding: 50px;
+
+}
+
+.top-cloud{
+  position: absolute;
+
+  right: 500px;
+  top: 150px;
+}
+.bot-cloud{
+  position: absolute;
+  bottom: 500px;
+  left: 500px;
+}
+ .bot{
+position: relative;
+left: 40px;
+ }
+ .skill-row{
+   display: inline-block;
+   margin: 100px auto 100px auto;
+   width: 50%;
+   text-align: left;
+   line-height: 2;
+ }
+ .console{
+   width: 25%;
+   float: left;
+  margin-right: 30px;
+ }
+.football{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.copyr{
+  color:#EAF6F6;
+  margin: 30px;
+}
+.footer-link{
+  color: #11999E;
+  margin: 30px;
+}
+.contact-me{
+  padding: 30px;
+}
+.btn{
+  margin: 50px;
+}
+.beauty
+{
+  margin: 50px;
+}
+.myButton {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+ hr{
+   border-style: none;
+   border-top-style: dotted;
+   width: 3%;
+   border-width: 5px;
+   color: #40514E;
+   margin: 100px auto;
+ }
